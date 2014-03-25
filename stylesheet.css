@@ -1,11 +1,16 @@
 h1
 {color:#208CE5;
- font-family:"Times New Roman", Times, serif;  
+ font-family:"Georgia", Times, serif;  
 }
 
 
 h3
-{color:#BCCBD6;}
+{color:#BCCBD6;
+ font-family:"Lucida Sans Unicode", Times, serif;
+ 
+
+}
+
 
 ul
 {color:#208CE5;}
@@ -13,6 +18,7 @@ ul
 body
 {
  background-image: url("https://drive.google.com/uc?id=0B_J0PkNHgtOXQ2lFVzVLRW16TDA");
+ background-repeat:center;
 }
 footer
 {color:#BCCBD6;}
