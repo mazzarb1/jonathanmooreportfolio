@@ -2,17 +2,22 @@ h1
 {color:#208CE5;
  font-family:"Georgia", Times, serif;
  font-size:xx-large;
+ letter-spacing:2px;
+ 
+ 
 }
 
 
 h3
 {color:#BCCBD6;
+text-align:center;
  font-family:"Lucida Sans Unicode", Times, serif;
  font-size:x-large;
  
  
 
 }
+
 
 
 ul
@@ -27,6 +32,8 @@ body
 {
  background-image: url("https://drive.google.com/uc?id=0B_J0PkNHgtOXQ2lFVzVLRW16TDA");
  background-size:cover;
+ 
+ 
 
 }
 footer
