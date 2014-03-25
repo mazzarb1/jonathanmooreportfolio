@@ -1,19 +1,27 @@
 h1
 {color:#208CE5;
- font-family:"Georgia", Times, serif;  
+ font-family:"Georgia", Times, serif;
+ font-size:xx-large;
 }
 
 
 h3
 {color:#BCCBD6;
  font-family:"Lucida Sans Unicode", Times, serif;
+ font-size:x-large;
+ 
  
 
 }
 
 
 ul
-{color:#208CE5;}
+
+{color:#208CE5;
+font-size:x-large;
+font-family: Arial;
+}
+
 
 body
 {
