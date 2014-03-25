@@ -27,6 +27,12 @@ font-size:x-large;
 font-family: Arial;
 }
 
+div{
+    background-color:#BCCBD6;
+   opacity: 0.4;
+    width: 190px
+    
+}
 
 body
 {
