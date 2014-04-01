@@ -15,22 +15,18 @@ ul {
     font-size:x-large;
     font-family: Arial;
 }
-
 #menu {
     background-color:#BCCBD6;
     opacity: 0.7;
     width: 190px
 }
-
 #cocktail {
     text-align:center;
     background-color:#BCCBD6;
     opacity: 0.7;
-    width:200;
-    height;315;
-    left 10px;
-    
-    
+    width:560;
+    height;
+    315;
 }
 body {
     background-image: url("https://drive.google.com/uc?id=0B_J0PkNHgtOXQ2lFVzVLRW16TDA");
