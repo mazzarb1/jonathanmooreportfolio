@@ -7,10 +7,12 @@ h1 {
     
 }
 h3 {
-    color:#208CE5;
+    color:#0099FF;
     text-align:center;
-    font-family:"Lucida Sans Unicode", Times, serif;
+   font-family:"Georgia", Times, serif;
     font-size:x-large;
+    background-color:#BCCBD6;
+    opacity:0.7;
 }
 ul {
     color:#208CE5;
