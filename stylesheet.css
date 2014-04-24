@@ -16,10 +16,12 @@ h1 {
 }
 h3 {
     color:#0099FF;
-    
    font-family:"Georgia", Times, serif;
     font-size:xx-large;
     background-color:#000000;
+    width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
     
     
 }
