@@ -1,3 +1,11 @@
+nav{
+   background-color:#BCCBD6;
+    width: 250px;
+    height: 190px;
+    font-size:xx-large;
+    font-family:"Arial", Helvetica, sans-serif;
+
+}
 h1 {
     color:#0099FF;
     font-family:"Georgia", Times, serif;
@@ -20,11 +28,7 @@ ul {
     
     font-family: Arial;
 }
-#menu {
-    background-color:#BCCBD6;
-    width: 317px;
-    height: 215px;
-    opacity: 0.8;
+
         
 }
 #cocktail {
