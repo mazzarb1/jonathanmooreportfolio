@@ -15,20 +15,20 @@ h3 {
     opacity:0.7;
 }
 ul {
-    color:#208CE5;
+    color:#0099FF;
     font-size:300%;
     font-family: Arial;
 }
 #menu {
     background-color:#BCCBD6;
-    width: 320px;
+    width: 317px;
     height: 290px;
     opacity: 0.8;
         
 }
 #cocktail {
     text-align:center;
-    background-color:#BCCBD6;
+    background-color:#0099FF;
     opacity: 0.7;
     width:560;
     height;315;
